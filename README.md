@@ -16,12 +16,12 @@ This Python project allows you to compare the prices and product names of items 
    ```
 
 2. Clone or download all the files in the 'scraperCode' folder to your local directory.
-3. 
+   
    ```bash
    git clone https://github.com/garvit420/pythonWebScraper.git
    ```
    
-4. Run the 'main.py' file to start the program.
+3. Run the 'main.py' file to start the program.
 
 ## Future Expandability
 This project can easily be expanded to include other websites by creating a new Python file for the new site, similar to the Amazon and Flipkart scrapers. Additionally, future updates may include a search by product name functionality to compare prices on multiple websites.
